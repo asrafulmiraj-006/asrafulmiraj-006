@@ -8,7 +8,7 @@ Open to opportunities and collaborations!
 
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
